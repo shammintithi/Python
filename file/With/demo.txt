@@ -1,0 +1,3 @@
+with open("filename", "r") as file:
+
+dont need use file.close()
